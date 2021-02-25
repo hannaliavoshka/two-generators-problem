@@ -10,3 +10,5 @@ GENERATORS CODE is in the solution.
 SOLUTION REQUIREMENTS:
 Correct prediction for at least 98% of sets.
 Execution time up to 1 second.
+
+![](https://github.com/hannaliavoshka/two-generators-problem/blob/main/two-generators.jpg)
